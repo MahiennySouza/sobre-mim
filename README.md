@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=1000&color=ff00b7&background=FF15DA00&center=true&vCenter=true&width=835&lines=Um+pouco+sobre+mim!)](https://git.io/typing-svg)
 
-
+<div align="center">
+ <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1NzY5MjcsIm5iZiI6MTczMjU3NjYyNywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI1VDIzMTcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMzgxNmQ5NjZjZTc1MTRkN2UxM2EwODhiNWE3MDBhZWI3ODhhY2IzMTkzYzdiYWY1MDA5YzM5YzAzZjBkYWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fWO2PvvZBI0YrUqSNrtO0_TCWmjCUaz4XsmeXjbkDOY" width="450px"> 
+</div>
 
 
 
